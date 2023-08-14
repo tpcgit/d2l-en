@@ -362,7 +362,7 @@ One commonly occurring failure mode concerns datasets
 where some groups of people are unrepresented
 in the training data.
 Imagine applying a skin cancer recognition system
-that had never seen black skin before.
+that had never seen dark skin before.
 Failure can also occur when the data
 does not only under-represent some groups
 but reflects societal prejudices.
